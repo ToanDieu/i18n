@@ -1,0 +1,26 @@
+{
+  "name": "redux-form-with-react-intl-forked",
+  "version": "0.0.0",
+  "description": null,
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "react": "16.4.0",
+    "react-dom": "16.4.0",
+    "react-intl": "2.4.0",
+    "react-intl-redux": "2.0.0",
+    "react-redux": "5.0.7",
+    "redux": "4.0.0",
+    "redux-form": "7.3.0",
+    "redux-form-website-template": "0.0.122"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
